@@ -1,4 +1,8 @@
 This is my first file 
 isnt it great?
 hello
+<<<<<<< Updated upstream
 I added another line
+=======
+More text
+>>>>>>> Stashed changes
